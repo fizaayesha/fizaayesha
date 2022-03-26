@@ -6,4 +6,4 @@ Portfolio: https://ayeshakhan.netlify.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaayesha)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fizaayesha&show_icons=true)  
+![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fizaayesha&show_icons=true&theme=radical)
