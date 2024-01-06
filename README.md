@@ -22,6 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizaayesha&show_icons=true&locale=en" alt="fizaayesha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fizaayesha&" alt="fizaayesha" /></p>
-
-![image title](https://rushter.com/counter.svg)
-
