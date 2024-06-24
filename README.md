@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://fizaayesha.netlify.app/](https://fizaayesha.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://fizaayesha.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qa1YkFG-YoI3yzL3z7X6gH5W5SsQJt7z/view?usp=share_link](https://drive.google.com/file/d/1qa1YkFG-YoI3yzL3z7X6gH5W5SsQJt7z/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1w95OU06iwfxJcWCxbcPdNOfuObxyLNkL/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
